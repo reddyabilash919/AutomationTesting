@@ -1,9 +1,10 @@
 # AutomationTesting
 
-#Application URL
+## Application URL
+
 https://jupiter.cloud.planittesting.com/#/
 
-#TestCases 
+## TestCases 
 
 1. When user clicks on `Home` in navigation bar, then user should be navigated to home page successfully.
 
