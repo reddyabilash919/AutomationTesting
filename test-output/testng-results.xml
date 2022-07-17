@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="10" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="32649" started-at="2022-07-15T22:24:12 AEST" finished-at="2022-07-15T22:24:45 AEST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="32649" started-at="2022-07-15T22:24:12 AEST" finished-at="2022-07-15T22:24:45 AEST">
+      <class name="com.planit.testscenarios.TestMethods">
+        <test-method status="PASS" signature="beforetest()[pri:0, instance:com.planit.testscenarios.TestMethods@289d1c02]" name="beforetest" is-config="true" duration-ms="17962" started-at="2022-07-15T22:24:12 AEST" finished-at="2022-07-15T22:24:30 AEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method status="PASS" signature="NavigateToHomePage()[pri:0, instance:com.planit.testscenarios.TestMethods@289d1c02]" name="NavigateToHomePage" duration-ms="50" started-at="2022-07-15T22:24:30 AEST" finished-at="2022-07-15T22:24:30 AEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigateToHomePage -->
+        <test-method status="PASS" signature="SubmitContactInfo()[pri:1, instance:com.planit.testscenarios.TestMethods@289d1c02]" name="SubmitContactInfo" duration-ms="3929" started-at="2022-07-15T22:24:30 AEST" finished-at="2022-07-15T22:24:34 AEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SubmitContactInfo -->
+        <test-method status="PASS" signature="NavigateToShopPage()[pri:2, instance:com.planit.testscenarios.TestMethods@289d1c02]" name="NavigateToShopPage" duration-ms="920" started-at="2022-07-15T22:24:34 AEST" finished-at="2022-07-15T22:24:35 AEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigateToShopPage -->
+        <test-method status="PASS" signature="BuyOneProduct()[pri:3, instance:com.planit.testscenarios.TestMethods@289d1c02]" name="BuyOneProduct" duration-ms="526" started-at="2022-07-15T22:24:35 AEST" finished-at="2022-07-15T22:24:36 AEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BuyOneProduct -->
+        <test-method status="PASS" signature="BuyMultipleProducts()[pri:4, instance:com.planit.testscenarios.TestMethods@289d1c02]" name="BuyMultipleProducts" duration-ms="148" started-at="2022-07-15T22:24:36 AEST" finished-at="2022-07-15T22:24:36 AEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BuyMultipleProducts -->
+        <test-method status="PASS" signature="NavigateToCartPage()[pri:5, instance:com.planit.testscenarios.TestMethods@289d1c02]" name="NavigateToCartPage" duration-ms="823" started-at="2022-07-15T22:24:36 AEST" finished-at="2022-07-15T22:24:37 AEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigateToCartPage -->
+        <test-method status="PASS" signature="UpdateProductQuantity()[pri:6, instance:com.planit.testscenarios.TestMethods@289d1c02]" name="UpdateProductQuantity" duration-ms="514" started-at="2022-07-15T22:24:37 AEST" finished-at="2022-07-15T22:24:37 AEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UpdateProductQuantity -->
+        <test-method status="PASS" signature="ClearCart()[pri:7, instance:com.planit.testscenarios.TestMethods@289d1c02]" name="ClearCart" duration-ms="675" started-at="2022-07-15T22:24:37 AEST" finished-at="2022-07-15T22:24:38 AEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClearCart -->
+        <test-method status="PASS" signature="ProceedToCheckOut()[pri:8, instance:com.planit.testscenarios.TestMethods@289d1c02]" name="ProceedToCheckOut" duration-ms="864" started-at="2022-07-15T22:24:38 AEST" finished-at="2022-07-15T22:24:39 AEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ProceedToCheckOut -->
+        <test-method status="PASS" signature="OrderPurchaseDetails()[pri:9, instance:com.planit.testscenarios.TestMethods@289d1c02]" name="OrderPurchaseDetails" duration-ms="5403" started-at="2022-07-15T22:24:39 AEST" finished-at="2022-07-15T22:24:44 AEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OrderPurchaseDetails -->
+        <test-method status="PASS" signature="aftertest()[pri:0, instance:com.planit.testscenarios.TestMethods@289d1c02]" name="aftertest" is-config="true" duration-ms="774" started-at="2022-07-15T22:24:44 AEST" finished-at="2022-07-15T22:24:45 AEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
+      </class> <!-- com.planit.testscenarios.TestMethods -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
