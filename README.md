@@ -17,9 +17,9 @@ https://jupiter.cloud.planittesting.com/#/
 
 6. When user clicks on `Cart` in navigation bar, then user should be navigated to cart page successfully.
 
-7. When user updates the 'Quantity` for a product in cart page, then `Subtotal` should be updated successfully.
+7. When user updates the `Quantity` for a product in cart page, then `Subtotal` should be updated successfully.
 
-8. When user click on 'Empty Cart` in cart page, then all the products should be removed from cart successfully.
+8. When user click on `Empty Cart` in cart page, then all the products should be removed from cart successfully.
 
 9. When user clicks on `Check Out` in cart page, then user should be navigated to checkout page successfully.
 
